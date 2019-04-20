@@ -1,0 +1,7 @@
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\bin\Debug\ReverseInParantheses.exe.config
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\bin\Debug\ReverseInParantheses.exe
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\bin\Debug\ReverseInParantheses.pdb
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\obj\Debug\ReverseInParantheses.csprojAssemblyReference.cache
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\obj\Debug\ReverseInParantheses.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\obj\Debug\ReverseInParantheses.exe
+C:\Users\EMİNE\Source\Repos\ReverseInParantheses\ReverseInParantheses\obj\Debug\ReverseInParantheses.pdb
